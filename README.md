@@ -1,6 +1,6 @@
 # todo_with_redux
 
-A new Flutter project.
+A todo app with redux.
 
 ## Getting Started
 
